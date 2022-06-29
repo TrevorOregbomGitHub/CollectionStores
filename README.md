@@ -4,3 +4,4 @@
 2. HashSet
 3. HashMap
 4. ArrayList
+5. Enums
